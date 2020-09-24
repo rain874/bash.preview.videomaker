@@ -9,6 +9,6 @@ copy bsprevideo.sh in the folder white the files
 ```
 # Step 3 
 ```shell
-bash bsprevideo.sh
+$ bash bsprevideo.sh
 ```
 
